@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll_dice">Roll Dice</string>
+    <string name="dice_image">Dice Image</string>
+    <string name="dice_roller">Dice Roller</string>
+    <string name="info">Developed by Peter Oyelegbin | © 2020 | All right reserved</string>
+</resources>
